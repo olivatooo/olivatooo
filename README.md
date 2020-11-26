@@ -13,7 +13,7 @@
        -osssssso.      :ssssssso.        Terminal Font: black: '0x0b0b0c'
       :osssssss/        osssso+++.       CPU: AMD Ryzen 7 3700X (16) @ 3.600GHz
      /ossssssss/        +ssssooo/-       GPU: NVIDIA GeForce GTX 970
-   `/ossssso+/:-        -:/+osssso+-     Memory: 2345MiB / 15987MiB
-  `+sso+:-`                 `.-/+oso:
- `++:.                           `-/+/
+   `/ossssso+/:-        -:/+osssso+-    Memory: 2345MiB / 15987MiB
+    +sso+:-`                 .-/+oso:
+ `++:.                           -/+/`
  .`                                 `/
