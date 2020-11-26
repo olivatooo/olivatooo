@@ -1,1 +1,1 @@
-<img src="https://64.media.tumblr.com/647555eea929d17e9b26da3ecc44ec40/014203ba6b526ec5-52/s500x750/605f8b8e3ed01900a9da1dc5d34aae77f63f3fe9.gifv"></img>
+<center><img src="https://pa1.narvii.com/6002/177d6563e555bef206561013bf599db9c43a65cb_hq.gif"></img></center>
