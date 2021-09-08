@@ -5,4 +5,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=olivatooo&theme=gruvbox)](https://github.com/olivatooo/github-profile-trophy)
 
-<img src='https://count.getloli.com/get/@sugkiy?theme=moebooru' alt='readmeviews'>
+<img src='https://count.getloli.com/get/@olivatooo?theme=moebooru' alt='readmeviews'>
