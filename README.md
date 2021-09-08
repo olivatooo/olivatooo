@@ -4,3 +4,5 @@
 [![DOI:10.5753](https://zenodo.org/badge/DOI/10.5753/kdmile.2020.11952.svg)](https://doi.org/10.5753/kdmile.2020.11952 )
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=olivatooo&theme=gruvbox)](https://github.com/olivatooo/github-profile-trophy)
+
+<img src='https://count.getloli.com/get/@sugkiy?theme=moebooru' alt='readmeviews'>
