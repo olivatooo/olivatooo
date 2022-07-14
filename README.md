@@ -5,6 +5,8 @@
 
 [Highly replicable and portable computing infrastructure for Data Science research using OpenHPC](https://repositorio.ufscar.br/bitstream/handle/ufscar/14449/TCC_Olivato.pdf?sequence=1&isAllowed=y)
 
+[Poems of a Dying Machine: The first book written entirely by an artificial intelligence](https://www.amazon.com.br/dp/B0B6HG9XC8)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=olivatooo&theme=gruvbox)](https://github.com/olivatooo/github-profile-trophy)
 
 <img src='https://count.getloli.com/get/@olivatooo?theme=moebooru' alt='readmeviews'>
