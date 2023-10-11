@@ -8,6 +8,8 @@
 
 # Publications
 
+[Collection: Applied computer engineering](https://atenaeditora.com.br/catalogo/ebook/collection-applied-computer-engineering)
+
 [![DOI:10.5753](https://zenodo.org/badge/DOI/10.5753/kdmile.2020.11952.svg)](https://doi.org/10.5753/kdmile.2020.11952 )
 
 [Highly replicable and portable computing infrastructure for Data Science research using OpenHPC](https://repositorio.ufscar.br/bitstream/handle/ufscar/14449/TCC_Olivato.pdf?sequence=1&isAllowed=y)
