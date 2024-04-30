@@ -22,4 +22,4 @@
 
 # View Count
 
-<img src='https://count.getloli.com/get/@olivatooo?theme=moebooru' alt='readmeviews'>
+<img src='https://count.getloli.com/get/@olivatooo?theme=geelbooru' alt='readmeviews'>
