@@ -2,13 +2,30 @@
   
 # 👨‍💻 Welcome? 🚀
 
-## 🔥 Language Arsenal
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olivatooo&langs_count=10&layout=compact&theme=radical&hide_border=true)](https://github.com/olivatooo/github-readme-stats)
-
-## ⚡ GitHub Stats
-
-[![Olivato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olivatooo&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/olivatooo/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <h2>Languages</h2>
+      <a href="https://github.com/olivatooo/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivatooo&langs_count=10&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+      </a>
+    </td>
+    <td>
+      <h2>GitHub Stats</h2>
+      <a href="https://github.com/olivatooo/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=olivatooo&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Olivato's GitHub Stats">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h2>🏆 GitHub Achievements</h2>
+      <a href="https://github.com/olivatooo/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=olivatooo&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true" alt="Trophy Case">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📚 Publications & Research
 
@@ -25,9 +42,7 @@
 ### 📖 Books
 - [**Poems of a Dying Machine**](https://www.amazon.com.br/dp/B0B6HG9XC8) - The first book written entirely by AI 🤖
 
-## 🏆 GitHub Achievements
 
-[![Trophy Case](https://github-profile-trophy.vercel.app/?username=olivatooo&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/olivatooo/github-profile-trophy)
 
 ## 👀 Profile Views
 
